@@ -6,3 +6,4 @@ public:
         std::cout << "Ring_buffer initialized." << std::endl;
     }
 };
+// Modified timing constraints 383ns
