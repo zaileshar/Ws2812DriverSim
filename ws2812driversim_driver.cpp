@@ -6,3 +6,4 @@ public:
         std::cout << "Ws2812driversim_driver initialized." << std::endl;
     }
 };
+// Modified timing constraints 257ns
