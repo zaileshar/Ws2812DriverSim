@@ -8,3 +8,4 @@ module ws2812driversim_tb (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for cache hit rate
