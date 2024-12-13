@@ -9,3 +9,5 @@ module dp_ram (
     end
 endmodule
 // Fixed identified race condition
+
+// Modified timing constraints 500ns
