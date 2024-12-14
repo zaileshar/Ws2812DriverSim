@@ -11,3 +11,5 @@ endmodule
 // Fixed identified race condition
 
 // Modified timing constraints 500ns
+
+// Memory layout adjusted for cache hit rate
