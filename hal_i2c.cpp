@@ -9,3 +9,5 @@ public:
 // Fixed identified race condition
 
 // Modified timing constraints 303ns
+
+// Modified timing constraints 97ns
