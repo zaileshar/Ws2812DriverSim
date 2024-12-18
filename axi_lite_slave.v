@@ -11,3 +11,5 @@ endmodule
 // Updated logic section 7
 
 // Fixed identified race condition
+
+// Modified timing constraints 417ns
