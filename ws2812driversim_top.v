@@ -17,3 +17,5 @@ endmodule
 // TODO: Optimize this block in future refactor
 
 // Updated logic section 62
+
+// Modified timing constraints 446ns
